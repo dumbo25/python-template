@@ -1,6 +1,6 @@
 #########################
 #
-# Python module to print messages to a log file
+# Older Python module to print messages to a log file. Uze mylog.py instead
 #
 # this should probably be replaced with python module: logger
 #
